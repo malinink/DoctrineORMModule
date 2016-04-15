@@ -33,7 +33,7 @@
     ],
     "require":           {
         "php":                               "^5.5 || ^7.0",
-        "doctrine/doctrine-module":          "*",
+        "doctrine/doctrine-module":          "dev-feature/sm3-support",
         "doctrine/orm":                      ">=2.5,<2.7",
         "doctrine/dbal":                     ">=2.4,<2.7",
         "zendframework/zend-stdlib":         "^2.7.6",
